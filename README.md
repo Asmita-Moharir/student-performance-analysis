@@ -1,7 +1,5 @@
-# student-performance-analysis
-Data Analytics project analyzing factors affecting student exam performance using Python
 # Student Performance Analysis
-
+Data Analytics project analyzing factors affecting student exam performance using Python
 This project explores the impact of demographic and social factors on student exam performance using Python.
 
 ## Tools & Libraries
